@@ -11,6 +11,6 @@ How to run the Daily Expense Tracking System  Project
 Credential for user panel  OR you can register your self:
 Email gordornjohnao@gmail.com
 <h2>Screenshots</h2>
-<img src="screenshots\Daily-Expense-Trakcey-Signup.png" width="100%" title="Intro Card" alt="Intro Card"> </a>
-<img src="screenshots\Daily-Expense-Tracker-login.png" width="100%" title="Intro Card" alt="Intro Card"> </a>
-<img src="screenshots\Daily-Expense-Tracker-Dashboard-1024x467" width="100%" title="Intro Card" alt="Intro Card"> </a>
+<img src="screenshots\Daily-Expense-Trakcey-Signup.png" width="100%" title="signup" alt="signup"> </a>
+<img src="screenshots\Daily-Expense-Tracker-login.png" width="100%" title="login" alt="login"> </a>
+<img src="screenshots\Daily-Expense-Tracker-Dashboard.png" width="100%" title="dashboard" alt="dashboard"> </a>
