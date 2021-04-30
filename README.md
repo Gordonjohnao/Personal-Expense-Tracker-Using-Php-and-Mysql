@@ -10,3 +10,7 @@ How to run the Daily Expense Tracking System  Project
 7.Run the script http://localhost/dets (frontend)
 Credential for user panel  OR you can register your self:
 Email gordornjohnao@gmail.com
+<h2>Screenshots</h2>
+<img src="screenshots\Daily-Expense-Trakcey-Signup.png" width="100%" title="Intro Card" alt="Intro Card"> </a>
+<img src="screenshots\Daily-Expense-Tracker-login.png" width="100%" title="Intro Card" alt="Intro Card"> </a>
+<img src="screenshots\Daily-Expense-Tracker-Dashboard-1024x467" width="100%" title="Intro Card" alt="Intro Card"> </a>
